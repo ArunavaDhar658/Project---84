@@ -1,0 +1,17 @@
+body{
+	background-image: url("https://media4.giphy.com/media/1lwlEzsDMsaxfdnjWV/giphy.gif");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas{
+	border-width:10px;
+    background-image: url("https://www.enjoyillinois.com/assets/Uploads/Listing-Car-Racing3.jpg");
+    background-size: cover;
+	border-style:ridge;
+}
+h1,h2{
+	color: white !important;
+}
+h4 {
+    color: black;
+}
